@@ -1,2 +1,2 @@
 let fullName: string = "Hasan";
-console.log(fullName)
+console.log(fullName) // Hasan
